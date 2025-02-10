@@ -1,1 +1,1 @@
-TO RUN APP(CHECK DIRECTORY): python3 -m clinic gui
+To run app (check directory): python3 -m clinic gui
